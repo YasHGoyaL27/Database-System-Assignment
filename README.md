@@ -1,5 +1,9 @@
 # Database-System-Assignment
+Knowledge base for the US constitution was made in Prolog Programming Language as a part of Logic in Computer Science Course; aim was to perform queries on basis of the structure of Government.
 
+# Contributors
+1. YASH GOYAL (2019B4A70638P)
+2. VASU SWAROOP (2019B4A70656P)
 
 # INSTRUCTIONS TO RUN THE CODE
 
